@@ -201,3 +201,33 @@ hr{
     color: rgba(0, 0, 0, 0.1 );
     margin: 30px 0;
 }
+.dcv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* fotter styling */
+footer{
+    background-color: #FFF8F3;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    width: 1140px;
+    margin: 0 auto;
+    padding: 80px 0 100px;
+}
+.left{
+
+}
+
+.contect input, textarea{
+    display: block;
+    margin-bottom:25px; ;
+    font-size: 18px;
+    padding: 16px 30px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+}
