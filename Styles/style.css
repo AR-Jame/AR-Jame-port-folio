@@ -1,0 +1,42 @@
+*{
+    font-family: "Open Sans";
+    text-decoration: none;
+}
+
+/* shared style */
+.btn{
+    padding: 15px 32px;
+    background-color: #FD6E0A;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+    
+}
+nav > ul> li{
+    list-style: none;
+    margin-right: 50px;
+    color: #474747;
+}
+nav a{
+    color: #474747;
+}
+.web-name{
+    color: #181818;
+    font-weight: 800;
+    font-size: 45px;
+}
+span{
+    color: #FD6E0A;
+}
